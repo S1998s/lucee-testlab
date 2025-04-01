@@ -1,7 +1,7 @@
 {
     "datasources": {
         "coolblog" : {
-            "host":"localhost",
+            "host": "localhost",
             "type": "MySQL",
             "dsn": "jdbc:mysql://{host}:{port}/{database}",
             "class": "com.mysql.cj.jdbc.Driver",
